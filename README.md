@@ -13,13 +13,13 @@ El juego incluye:
 
 ---
 
-## 📸 Vista del Proyecto
+## Vista del Proyecto
 
 *(Agrega aquí imágenes del prototipo o un GIF del juego en acción.)*
 
 ---
 
-## 🛠️ Componentes Necesarios
+## Componentes Necesarios
 
 - 1x Arduino Mega 2560 (puede funcionar en Arduino UNO con cambios mínimos).
 - 1x Pantalla LCD **16x2** en modo paralelo.
@@ -31,7 +31,7 @@ El juego incluye:
 
 ---
 
-## ⚡ Conexiones del Hardware
+## Conexiones del Hardware
 
 La siguiente tabla resume las conexiones entre el **Arduino Mega 2560**, la pantalla LCD, el buzzer y el pulsador:
 
@@ -55,7 +55,7 @@ La siguiente tabla resume las conexiones entre el **Arduino Mega 2560**, la pant
 
 ---
 
-## 🖼️ Esquema de Conexión
+## Esquema de Conexión
 
 *(Aquí puedes añadir un diagrama hecho en Fritzing o un esquema ASCII para mayor claridad. Ejemplo ASCII básico:)*
 
