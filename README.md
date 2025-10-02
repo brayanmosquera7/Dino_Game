@@ -1,4 +1,4 @@
-# 🦖 Dino Game en Arduino con LCD 16x2 y Buzzer 🎵
+# Dino Game en Arduino con LCD 16x2 y Buzzer
 
 Este proyecto implementa el clásico **juego del Dinosaurio de Chrome** en una pantalla **LCD 16x2**, controlado por un **Arduino Mega (ATmega2560)**.  
 El juego incluye:
