@@ -1,3 +1,33 @@
+/*
+  Proyecto: Dino Game en Arduino con LCD 16x2 y Buzzer
+  Autor: Brayan Mosquera
+  Fecha: 02/10/2025
+  Descripción:
+    Este programa implementa una versión del clásico juego del Dinosaurio de Chrome 
+    en un microcontrolador Arduino Mega 2560, utilizando una pantalla LCD 16x2, 
+    un pulsador y un buzzer para efectos de sonido y música de fondo.
+
+    Características principales:
+    - Animación del dinosaurio caminando.
+    - Obstáculos aleatorios (ramas y aves).
+    - Sistema de puntaje en pantalla.
+    - Detección de colisiones con mensaje de "GAME OVER".
+    - Control de salto mediante pulsador.
+    - Música de fondo simplificada ("Time To Level Up").
+    - Efectos de sonido en saltos y colisiones.
+
+  Hardware utilizado:
+    - Arduino Mega 2560
+    - Pantalla LCD 16x2 (modo paralelo)
+    - Pulsador en pin 13
+    - Buzzer en pin 11
+    - Potenciómetro de 10kΩ para contraste del LCD
+
+  Licencia: MIT (uso libre con atribución al autor)
+  Si te gusto este proyecto, deja una estrella, gracias
+*/
+
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2);  
