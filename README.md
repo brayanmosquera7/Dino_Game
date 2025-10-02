@@ -15,7 +15,8 @@ El juego incluye:
 
 ## Vista del Proyecto
 
-*(Agrega aquí imágenes del prototipo o un GIF del juego en acción.)*
+<img width="600" height="600" alt="hardward" src="https://github.com/user-attachments/assets/bffa9fce-8246-4e72-b976-0e15a7597fc6" />
+
 
 ---
 
