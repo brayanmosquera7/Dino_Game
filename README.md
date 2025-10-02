@@ -15,6 +15,7 @@ El juego incluye:
 
 ## Vista del Proyecto
 
+![1000057281](https://github.com/user-attachments/assets/f93f2310-419b-487f-a07b-de7932de4bd5)
 
 
 
