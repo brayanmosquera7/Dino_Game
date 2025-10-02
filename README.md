@@ -15,7 +15,7 @@ El juego incluye:
 
 ## Vista del Proyecto
 
-<img width="600" height="600" alt="hardward" src="https://github.com/user-attachments/assets/bffa9fce-8246-4e72-b976-0e15a7597fc6" />
+
 
 
 ---
@@ -58,5 +58,6 @@ La siguiente tabla resume las conexiones entre el **Arduino Mega 2560**, la pant
 
 ## Esquema de Conexión
 
-*(Aquí puedes añadir un diagrama hecho en Fritzing o un esquema ASCII para mayor claridad. Ejemplo ASCII básico:)*
+
+<img width="600" height="600" alt="hardward" src="https://github.com/user-attachments/assets/461d4f36-5f5b-4892-b522-4f8ed4753383" />
 
